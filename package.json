@@ -1,0 +1,14 @@
+{
+  "name": "uncle",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "some-command",
+    "start": "another-command"
+  }
+}
+{
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.14",
+    "tailwindcss": "^4.1.14"
+  }
+}
